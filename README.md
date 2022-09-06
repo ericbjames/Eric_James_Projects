@@ -1,9 +1,15 @@
-# Tableau_PM_Viz_Project
-## Overview
-- Used the U.S. Forest Service database of infrastructure projects to build a dashboard in Tableau. 
+# [Project 1 - Pandas/Excel Dashboard](https://ericbjames.github.io/Excel_Sales_Project/)
+
+## Project Overview
+-
+-
+-
+
+<img width="1112" alt="Dashboard" src="https://user-images.githubusercontent.com/101911329/186281419-386bf43d-23c5-4d32-a3f9-8bace8bf88f3.png">
+
+# [Project 2 - SQL/Tableau](https://github.com/ericbjames/Tableau_PM_Viz_Project.git)
+
+## Project Overview
+- Used the U.S. Forest Service database of infrastructure projects to build a dashboard in Tableau.
 - It was created to visualize the budget, timeline, and location of California’s Great American Outdoors Act (GAOA) projects from 2021-2025.
-
-View Dashboard [Here](https://public.tableau.com/app/profile/eric.james5960/viz/CAAgricultureDataVizProject/PortfolioOverview)
-
-# Final Dashboard
-<img width="1469" alt="Screen Shot 2022-09-06 at 3 44 29 AM" src="https://user-images.githubusercontent.com/101911329/188582119-fc40b848-78a5-4d47-ac25-3a22e53e17e6.png">
+<img width="1469" alt="Dashboard image" src="https://user-images.githubusercontent.com/101911329/188576571-79182aab-d4b4-4007-b5b5-f9ab771479ae.png">
