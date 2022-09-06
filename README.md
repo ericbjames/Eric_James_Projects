@@ -7,7 +7,7 @@
 
 <img width="1112" alt="Dashboard" src="https://user-images.githubusercontent.com/101911329/186281419-386bf43d-23c5-4d32-a3f9-8bace8bf88f3.png">
 
-# [Project 2 - SQL/Tableau](https://github.com/ericbjames/Tableau_PM_Viz_Project.git)
+# [Project 2 - SQL/Tableau](https://ericbjames.github.io/Tableau_PM_Viz_Project/)
 
 ## Project Overview
 - Used the U.S. Forest Service database of infrastructure projects to build a dashboard in Tableau.
